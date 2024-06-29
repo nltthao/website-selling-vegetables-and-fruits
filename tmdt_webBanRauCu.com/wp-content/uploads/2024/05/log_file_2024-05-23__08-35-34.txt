@@ -1,0 +1,102 @@
+
+---Downloaded files---
+The import files for: Nest Demo (Home 1 , 2 , 3 & Innerpages) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ecommerce/tmdt_webBanRauCu.com
+Data file = C:\xampp\htdocs\ecommerce\tmdt_webBanRauCu.com/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/democontent.xml
+Widget file = C:\xampp\htdocs\ecommerce\tmdt_webBanRauCu.com/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/widgets.wie
+Customizer file = not defined!
+Redux files:
+nest_theme_mod -> C:\xampp\htdocs\ecommerce\tmdt_webBanRauCu.com/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Products list - Trending Now - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Products list - Products - Imported
+Nest - Product Banner  -  Save 17% &lt;br&gt;
+ on &lt;span class=&quot;text-brand&quot;&gt;Oganic&lt;/span&gt;&lt;br&gt;
+Juice
+ - Imported
+
+Filter Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nest_theme_mod finished successfully!
+
+---ocdi/after_import---
+

@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "jouleslabs/warehouse",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/JoulesLabs/warehouse.git",
+                "reference": "8b33c9a514a7cfff2796262f4d6e59519a05f228"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/JoulesLabs/warehouse/zipball/8b33c9a514a7cfff2796262f4d6e59519a05f228",
+                "reference": "8b33c9a514a7cfff2796262f4d6e59519a05f228",
+                "shasum": ""
+            },
+            "time": "2023-05-30T11:19:15+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "JoulesLabs\\Warehouse\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Hashemi Rafsan",
+                    "email": "rafsanhashemi@gmail.com"
+                }
+            ],
+            "description": "Microframework for wordpress plugin",
+            "support": {
+                "source": "https://github.com/JoulesLabs/warehouse/tree/master",
+                "issues": "https://github.com/JoulesLabs/warehouse/issues"
+            },
+            "install-path": "../jouleslabs/warehouse"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

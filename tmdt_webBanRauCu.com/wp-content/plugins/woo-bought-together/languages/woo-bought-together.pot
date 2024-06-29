@@ -1,0 +1,1008 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Frequently Bought Together for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Frequently Bought Together for WooCommerce 7.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-bought-together\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-10T01:48:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: woo-bought-together\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Frequently Bought Together for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Increase your sales with personalized product recommendations."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:216
+msgid "Above add to cart button"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:217
+msgid "Under add to cart button"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:218
+msgid "Under the title"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:219
+msgid "Under the price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:220
+msgid "Under the excerpt"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:221
+msgid "Under the meta"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:222
+msgid "Under summary"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:223
+msgid "None (hide it)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:269
+#: wpc-frequently-bought-together.php:280
+msgid "WPC Frequently Bought Together"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:269
+#: wpc-frequently-bought-together.php:2089
+msgid "Bought Together"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:280
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-frequently-bought-together.php:283
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:285
+msgid "Reviews"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:286
+msgid "Changelog"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:287
+msgid "Discussion"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:292
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:298
+#: wpc-frequently-bought-together.php:1367
+msgid "Settings"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:301
+msgid "Smart Rules"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:304
+msgid "Localization"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:308
+msgid "Tools"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:312
+#: wpc-frequently-bought-together.php:1368
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:315
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:346
+#: wpc-frequently-bought-together.php:665
+msgid "General"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:350
+msgid "Pricing method"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:353
+msgid "from Sale price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:354
+msgid "from Regular price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:356
+msgid "Calculate prices from the sale price (default) or regular price of products."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:360
+msgid "Smart rules"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:367
+msgid "Default products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:369
+msgid "Choose which to be used as default Bought Together for products with no item list  specified individually or no Smart Rules applicable."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:397
+msgid "Related products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:403
+msgid "Upsells products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:409
+msgid "Cross-sells products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:416
+#: wpc-frequently-bought-together.php:1010
+msgid "Limit"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:424
+#: wpc-frequently-bought-together.php:967
+msgid "New price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:429
+#: wpc-frequently-bought-together.php:972
+msgid "Set a new price for each product using a number (eg. \"49\") or percentage (eg. \"90%\" of original price)."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:433
+#: wpc-frequently-bought-together.php:976
+#: wpc-frequently-bought-together.php:2214
+msgid "Discount"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:438
+#: wpc-frequently-bought-together.php:981
+#: wpc-frequently-bought-together.php:2217
+msgid "Discount for the main product when buying at least one product in this list."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:445
+#: wpc-frequently-bought-together.php:2269
+msgid "Layout"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:448
+#: wpc-frequently-bought-together.php:2273
+msgid "List"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:449
+#: wpc-frequently-bought-together.php:2274
+msgid "Separate images"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:450
+#: wpc-frequently-bought-together.php:2275
+msgid "Grid - 2 columns"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:451
+#: wpc-frequently-bought-together.php:2276
+msgid "Grid - 3 columns"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:452
+#: wpc-frequently-bought-together.php:2277
+msgid "Grid - 4 columns"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:457
+#: wpc-frequently-bought-together.php:2282
+msgid "Position"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:472
+#: wpc-frequently-bought-together.php:2297
+msgid "Choose the position to show the products list. You also can use the shortcode [woobt] to show the list where you want."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:476
+#: wpc-frequently-bought-together.php:2301
+msgid "Add to cart button"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:480
+#: wpc-frequently-bought-together.php:2305
+msgid "Main product's button"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:481
+#: wpc-frequently-bought-together.php:2306
+msgid "Separate buttons"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:486
+#: wpc-frequently-bought-together.php:2311
+msgid "Show \"this item\""
+msgstr ""
+
+#: wpc-frequently-bought-together.php:490
+#: wpc-frequently-bought-together.php:500
+#: wpc-frequently-bought-together.php:510
+#: wpc-frequently-bought-together.php:529
+#: wpc-frequently-bought-together.php:538
+#: wpc-frequently-bought-together.php:574
+#: wpc-frequently-bought-together.php:585
+#: wpc-frequently-bought-together.php:609
+#: wpc-frequently-bought-together.php:624
+#: wpc-frequently-bought-together.php:1243
+#: wpc-frequently-bought-together.php:1252
+#: wpc-frequently-bought-together.php:1262
+#: wpc-frequently-bought-together.php:1272
+#: wpc-frequently-bought-together.php:1282
+#: wpc-frequently-bought-together.php:2315
+msgid "Yes"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:491
+#: wpc-frequently-bought-together.php:501
+#: wpc-frequently-bought-together.php:511
+#: wpc-frequently-bought-together.php:521
+#: wpc-frequently-bought-together.php:530
+#: wpc-frequently-bought-together.php:539
+#: wpc-frequently-bought-together.php:563
+#: wpc-frequently-bought-together.php:575
+#: wpc-frequently-bought-together.php:587
+#: wpc-frequently-bought-together.php:610
+#: wpc-frequently-bought-together.php:625
+#: wpc-frequently-bought-together.php:1244
+#: wpc-frequently-bought-together.php:1253
+#: wpc-frequently-bought-together.php:1263
+#: wpc-frequently-bought-together.php:1273
+#: wpc-frequently-bought-together.php:1283
+#: wpc-frequently-bought-together.php:2316
+msgid "No"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:493
+#: wpc-frequently-bought-together.php:2318
+msgid "\"This item\" cannot be hidden if \"Separate buttons\" is in use for the Add to Cart button."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:497
+msgid "Exclude unpurchasable"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:503
+msgid "Exclude unpurchasable products from the list."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:507
+msgid "Show thumbnail"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:516
+msgid "Show price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:519
+#: wpc-frequently-bought-together.php:1022
+msgid "Price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:520
+msgid "Total"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:526
+msgid "Show short description"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:535
+msgid "Show plus/minus button"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:541
+msgid "Show the plus/minus button for the quantity input."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:545
+msgid "Variations selector"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:548
+#: wpc-frequently-bought-together.php:1016
+#: wpc-frequently-bought-together.php:1029
+msgid "Default"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:549
+msgid "Use WPC Variations Radio Buttons"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:557
+msgid "Link to individual product"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:560
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:561
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:562
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:571
+msgid "Change image"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:577
+msgid "Change the main product image when choosing the variation of variable products."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:581
+msgid "Change price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:586
+msgid "Yes, custom selector"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:591
+msgid "Change the main product price when choosing the variation or quantity of products. It uses JavaScript to change product price so it is very dependent on theme’s HTML. If it cannot find and update the product price, please contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:595
+msgid "Counter"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:598
+msgid "Count the individual products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:599
+msgid "Count the product quantities"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:600
+msgid "Hide"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:602
+msgid "Counter on the add to cart button."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:606
+msgid "Responsive"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:612
+msgid "Change the layout for small screen devices."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:617
+msgid "Cart & Checkout"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:621
+msgid "Change quantity"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:627
+msgid "Buyer can change the quantity of associated products or not?"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:632
+#: wpc-frequently-bought-together.php:2149
+msgid "Search"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:637
+msgid "Suggestion"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:667
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:671
+msgid "This item"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:674
+#: wpc-frequently-bought-together.php:3109
+msgid "This item:"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:679
+msgid "Choose an attribute"
+msgstr ""
+
+#. translators: attribute name
+#: wpc-frequently-bought-together.php:683
+#: wpc-frequently-bought-together.php:3158
+msgid "Choose %s"
+msgstr ""
+
+#. translators: attribute name
+#: wpc-frequently-bought-together.php:685
+msgid "Use %s to show the attribute name."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:689
+#: wpc-frequently-bought-together.php:692
+#: wpc-frequently-bought-together.php:3165
+msgid "Clear"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:697
+msgid "Additional price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:700
+#: wpc-frequently-bought-together.php:1334
+msgid "Additional price:"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:705
+msgid "Total price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:708
+#: wpc-frequently-bought-together.php:1335
+msgid "Total:"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:713
+msgid "Associated"
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:717
+#: wpc-frequently-bought-together.php:1429
+#: wpc-frequently-bought-together.php:1867
+msgid "(bought together %s)"
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:719
+msgid "The text behind associated products. Use \"%s\" for the main product name."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:723
+#: wpc-frequently-bought-together.php:726
+#: wpc-frequently-bought-together.php:1336
+msgid "Add to cart"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:731
+#: wpc-frequently-bought-together.php:734
+#: wpc-frequently-bought-together.php:1336
+#: wpc-frequently-bought-together.php:3052
+msgid "Add all to cart"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:739
+msgid "Default above text"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:744
+msgid "The default text above products list. You can overwrite it for each product in product settings."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:748
+msgid "Default under text"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:753
+msgid "The default text under products list. You can overwrite it for each product in product settings."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:758
+msgid "Alert"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:762
+msgid "Require selection"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:765
+#: wpc-frequently-bought-together.php:1337
+msgid "Please select a purchasable variation for [name] before adding this product to the cart."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:779
+msgid "Data Migration"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:781
+msgid "If selected products don't appear on the current version. Please try running Migrate tool."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:834
+msgid "Migrating..."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:835
+msgid "Please wait until it has finished!"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:847
+msgid "Finished!"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:850
+msgid "Migrate"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:882
+msgid "Our plugin checks rules from the top down the list. When there are products that satisfy more than 1 rule, the first rule on top will be prioritized. Please make sure you put the rules in the order of the most to the least prioritized."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:905
+msgid "+ Add rule"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:907
+msgid "Expand All"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:909
+msgid "Collapse All"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:950
+msgid "duplicate"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:951
+msgid "remove"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:956
+msgid "Add FBT products to which?"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:962
+msgid "Define applicable FBT products:"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:993
+msgid "Source"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:997
+msgid "All products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:998
+#: wpc-frequently-bought-together.php:1039
+msgid "Products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:999
+#: wpc-frequently-bought-together.php:1056
+msgid "Combined"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1014
+msgid "Order by"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1017
+msgid "None"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1018
+msgid "ID"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1019
+msgid "Name"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1020
+msgid "Type"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1021
+msgid "Date"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1023
+msgid "Modified"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1027
+msgid "Order"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1030
+msgid "DESC"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1031
+msgid "ASC"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1042
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1059
+msgid "* Configure to find products that match all listed conditions."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1071
+msgid "+ Add condition"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1076
+msgid "Terms"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1121
+msgid "including"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1122
+msgid "excluding"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1232
+msgid "Search limit"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1240
+msgid "Search by SKU"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1249
+msgid "Search by ID"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1255
+msgid "Search by ID when entering the numeric only."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1259
+msgid "Search exact"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1265
+msgid "Match whole product title or content?"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1269
+msgid "Search sentence"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1275
+msgid "Do a phrase search?"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1279
+msgid "Accept same products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1285
+msgid "If yes, a product can be added many times."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1289
+msgid "Product types"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1294
+msgid "All"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1300
+msgid " → Variation"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1384
+msgid "Community support"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1396
+msgid "Bought together (Disabled)"
+msgstr ""
+
+#. translators: count
+#: wpc-frequently-bought-together.php:1408
+msgid "Bought together (%d)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:1492
+msgid "One of the associated products is unavailable."
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:1493
+#: wpc-frequently-bought-together.php:1501
+#: wpc-frequently-bought-together.php:1510
+#: wpc-frequently-bought-together.php:1516
+#: wpc-frequently-bought-together.php:1524
+#: wpc-frequently-bought-together.php:1533
+#: wpc-frequently-bought-together.php:1539
+#: wpc-frequently-bought-together.php:1548
+#: wpc-frequently-bought-together.php:1555
+#: wpc-frequently-bought-together.php:1564
+#: wpc-frequently-bought-together.php:1571
+#: wpc-frequently-bought-together.php:1578
+msgid "You cannot add this product to the cart."
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:1547
+msgid "\"%s\" is un-purchasable."
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:1554
+msgid "You cannot add another \"%s\" to the cart."
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:1563
+msgid "\"%s\" does not reach the minimum quantity."
+msgstr ""
+
+#. translators: product name
+#: wpc-frequently-bought-together.php:1570
+msgid "\"%s\" passes the maximum quantity."
+msgstr ""
+
+#. translators: keyword
+#: wpc-frequently-bought-together.php:2038
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2063
+msgid "Add"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2065
+#: wpc-frequently-bought-together.php:2084
+msgid "Remove"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2070
+msgid "Set a new price using a number (eg. \"49\") or percentage (eg. \"90%\" of original price)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2070
+msgid "Default quantity"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2112
+msgid "Product wasn't returned."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2126
+msgid "Search settings"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2133
+msgid "Update Options"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2141
+msgid "Disable"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2149
+msgid "settings"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2153
+msgid "searching..."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2154
+msgid "Type any keyword to search"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2161
+msgid "Selected"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2163
+msgid "import/export"
+msgstr ""
+
+#. translators: links
+#: wpc-frequently-bought-together.php:2168
+msgid "* If don't choose any products, it can shows products from Smart Rules %1$s or Default %2$s."
+msgstr ""
+
+#. translators: links
+#: wpc-frequently-bought-together.php:2169
+#: wpc-frequently-bought-together.php:2170
+msgid "here"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2202
+msgid "+ Add heading/paragraph"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2207
+msgid "Add separately"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2210
+msgid "If enabled, the associated products will be added as separate items and stay unaffected from the main product, their prices will change back to the original."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2221
+msgid "Selecting method"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2224
+msgid "Multiple selection (default)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2225
+msgid "Single selection (choose 1 only)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2230
+msgid "Checked all"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2233
+msgid "Checked all by default."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2237
+msgid "Custom quantity"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2240
+msgid "Allow the customer can change the quantity of each product."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2244
+msgid "Sync quantity"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2247
+msgid "Sync the quantity of the main product with associated products."
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2251
+msgid "Limit each item"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2254
+msgid "Use default quantity as min"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2263
+msgid "Displaying"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2265
+msgid "Overwrite the default displaying settings"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2272
+#: wpc-frequently-bought-together.php:2288
+#: wpc-frequently-bought-together.php:2304
+#: wpc-frequently-bought-together.php:2314
+msgid "Unset (default setting)"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2322
+msgid "Above text"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:2332
+msgid "Under text"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3691
+msgid "Bought together"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3692
+msgid "With associated products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3693
+msgid "Without associated products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3738
+msgid "Before wrapper"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3739
+msgid "After wrapper"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3740
+msgid "Before products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3741
+msgid "After products"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3742
+msgid "Before sub-product"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3743
+msgid "After sub-product"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3744
+msgid "Before sub-product thumbnail"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3745
+msgid "After sub-product thumbnail"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3746
+msgid "Before sub-product name"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3747
+msgid "After sub-product name"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3748
+msgid "Before sub-product price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3749
+msgid "After sub-product price"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3750
+msgid "Before sub-product quantity"
+msgstr ""
+
+#: wpc-frequently-bought-together.php:3751
+msgid "After sub-product quantity"
+msgstr ""
